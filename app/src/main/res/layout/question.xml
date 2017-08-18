@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/question1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.app.mobile.rimbaherbaperlis.Question1">
+
+    <TextView
+        android:id="@+id/tv_question"
+        style="@style/Question" />
+
+    <View
+        android:id="@+id/sep1"
+        android:layout_below="@id/tv_question"
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <RadioButton
+        android:id="@+id/option1"
+        android:layout_below="@id/sep1"
+        style="@style/Option"
+        android:background="@color/colorBackgroundText" />
+
+    <View
+        android:id="@+id/sep2"
+        android:layout_below="@id/option1"
+        style="@style/Separator" />
+
+    <RadioButton
+        android:id="@+id/option2"
+        android:layout_below="@id/sep2"
+        style="@style/Option"
+        android:background="@color/colorBackgroundText"/>
+
+    <View
+        android:id="@+id/sep3"
+        android:layout_below="@id/option2"
+        style="@style/Separator" />
+
+    <RadioButton
+        android:id="@+id/option3"
+        android:layout_below="@id/sep3"
+        style="@style/Option"
+        android:background="@color/colorBackgroundText"/>
+
+    <View
+        android:id="@+id/sep4"
+        android:layout_below="@id/option3"
+        style="@style/Separator" />
+
+    <RadioButton
+        android:id="@+id/option4"
+        android:layout_below="@id/sep4"
+        style="@style/Option"
+        android:background="@color/colorBackgroundText"/>
+
+    <View
+        android:id="@+id/sep5"
+        android:layout_below="@id/option4"
+        style="@style/Separator" />
+
+    <RadioButton
+        android:id="@+id/option5"
+        android:layout_below="@id/sep5"
+        style="@style/Option"
+        android:background="@color/colorBackgroundText" />
+
+    <TextView
+        android:id="@+id/question_number"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="#ffffff"
+        android:text="@string/exit"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="onButtonExit"/>
+
+
+
+</RelativeLayout>

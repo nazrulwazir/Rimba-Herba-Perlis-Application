@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">RimbaHerbaPerlis</string>
+    <string name="content">RIMBA HERBA PERLIS</string>
+    <string name="content1">Pengenalan</string>
+    <string name="content1.1">Introduction of Rimba Herba Perlis</string>
+    <string name="content1.2">
+        "Perlis adalah satu-satunya kawasan yang mempunyai sejenis tumbuhan herba unik dari keluarga orkid iaitu 'S
+    </string>
+    <string name="content2">Lokasi</string>
+    <string name="content2.1">Map of Rimba Herba Perlis</string>
+    <string name="content2.2">
+        "Rimba Herba Perlis\n"
+        "Jabatan Perhutanan Negeri Perlis\n"
+        "Sungai Batu Pahat\n"
+        "01000 Kangar\n"
+        "Perlis\n"
+    </string>
+    <string name="content3">Types of plants and herbs</string>
+    <string name="content3.1">Jenis herba di Rimba Herba Perlis</string>
+    <string name="content3.2.1">blaaa bla</string>
+    <string name="content3.2.2">blaaa bla</string>
+    <string name="content3.2.3">blaaa bla</string>
+    <string name="content3.2.4">blaaa bla</string>
+    <string name="content3.2.5">blaaa bla</string>
+    <string name="content3.2.6">blaaa bla</string>
+    <string name="content3.2.7">blaaa bla</string>
+    <string name="content4">Trivia</string>
+    <string name="content5">Gallery</string>
+
+
+    <string name="welcome">Welcome to the Supernatural Quiz!</string>
+    <string name="message">Let\'s see how many questions you can answer properly.</string>
+    <string name="start">Start</string>
+    <string name="question1">Which college did Sam attend?</string>
+    <string name="stanford">Stanford</string>
+    <string name="berkeley">Berkeley</string>
+    <string name="harvard">Harvard</string>
+    <string name="yale">Yale</string>
+    <string name="princeton">Princeton</string>
+    <string name="question2">What is the name of Sam\'s girlfriend when he is at College?</string>
+    <string name="lisa">Lisa</string>
+    <string name="ruby">Ruby</string>
+    <string name="jessica">Jessica</string>
+    <string name="abbie">Abbie</string>
+    <string name="carol">Carol</string>
+    <string name="question3">What is the song played at the beginning of every season finale?</string>
+    <string name="paranoid">Paranoid</string>
+    <string name="peace_of_mind">Peace of mind</string>
+    <string name="anthem">Anthem</string>
+    <string name="carryon">Carry on my wayward son</string>
+    <string name="fight">Fight the good fight</string>
+    <string name="question4">Where Sam and Dean are from?</string>
+    <string name="phoenix">Phoenix, Arizona</string>
+    <string name="lawrence">Lawrence, Kansas</string>
+    <string name="stlouis">St Louis, Missouri</string>
+    <string name="austin">Austin, Texas</string>
+    <string name="new_orleans">New Orleans, Louisiana</string>
+    <string name="question5">In which season do the Leviathans appear?</string>
+    <string name="six">Season 6</string>
+    <string name="seven">Season 7</string>
+    <string name="eight">Season 8</string>
+    <string name="nine">Season 9</string>
+    <string name="ten">Season 10</string>
+    <string name="question6">Who did kill Kevin Tran?</string>
+    <string name="crowley">Crowley</string>
+    <string name="metatron">Metatron</string>
+    <string name="castiel">Castiel</string>
+    <string name="dean">Dean</string>
+    <string name="gadreel">Gadreel</string>
+    <string name="question7">What is Dean\'s fear?</string>
+    <string name="clow">Clows</string>
+    <string name="flight">Flights</string>
+    <string name="ghost">Ghosts</string>
+    <string name="ship">Ships</string>
+    <string name="spider">Spiders</string>
+    <string name="question8">What is the name of the actor who interprets Crowley?</string>
+    <string name="beaver">Jim Beaver</string>
+    <string name="collins">Misha Collins</string>
+    <string name="singer">Robert Singer</string>
+    <string name="ackles">Jensen Ackles</string>
+    <string name="sheppard">Mark Sheppard</string>
+    <string name="question9">In which episode does Sam meet Meg?</string>
+    <string name="scarecrow">Scarecrow</string>
+    <string name="faith">Faith</string>
+    <string name="route666">Route 666</string>
+    <string name="nightmare">Nightmare</string>
+    <string name="benders">The Benders</string>
+    <string name="question10">What is the name of the kid that Dean thinks to be his kid?</string>
+    <string name="ben">Ben</string>
+    <string name="eddie">Eddie</string>
+    <string name="mike">Mike</string>
+    <string name="adam">Adam</string>
+    <string name="kevin">Kevin</string>
+    <string name="next">Next</string>
+    <string name="finish">Congratulations! You finished the test.</string>
+    <string name="result">Quiz result</string>
+    <string name="out_of_10">out of 10</string>
+    <string name="share">Share this result (e-mail)</string>
+    <string name="exit">Exit</string>
+</resources>
